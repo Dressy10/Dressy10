@@ -28,10 +28,10 @@ I'm a graduate of a business school with passion for technology, and I enjoy cod
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Shell and C Language. I am still learning some other programs..
+Javascript, HTML, CSS, Shell and C Language. I am still learning some other programs...
 
 
 ## Lessons Learned
 
-1. No man is an island, and it is okay to seek for help, especialler when having bug.
-2. Learn from your errors.
+1. No man is an island, and it is okay to seek for help, especially when having bugs in codes and in real life situations.
+2. Learn from your errors, they shape you.
