@@ -16,15 +16,13 @@ I'm a graduate of a business school with passion for technology, and I enjoy cod
 ## Other things you should know about me...
 👩‍💻 I'm currently working on building responsive websites
 
-🧠 I'm currently learning JavaScript, aiming to dive deeply into React.js soon
+🧠 I'm currently learning DevOps and I hope to be a really good DevOps Engineer.
 
-👯‍♀️ I'm looking to collaborate on working with JavaScript
-
-🤔 I'm looking for help with JavaScript
+👯‍♀️ I'm looking to collaborate on working with DevOps specialists.
 
 📫 How to reach me... Kindly hit me up using any of my social media accounts.
 
-⚡️ Fun fact... Coding is so much fun.
+⚡️ Fun fact... Coding is as fun as much as people find it difficult.
 
 
 ## 🛠 Skills
