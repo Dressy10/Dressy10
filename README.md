@@ -3,7 +3,7 @@
 
 
 
-My name is Samuel Dressman, and I am a web developer.
+My name is Samuel Dressman, and I am an Azure Deveoper who aspired to become a leading DevOps Engineer
 
 ## 🚀 About Me
 I'm a graduate of a business school with passion for technology, and I enjoy coding a lot.
@@ -26,7 +26,7 @@ I'm a graduate of a business school with passion for technology, and I enjoy cod
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, Shell and C Language. I am still learning some other programs...
+Javascript, HTML, CSS, Shell and C Language, DevopS, Cloud Migration, Azure resource and Identity Management. I am still learning some other programs becasue leartning never stops for me.
 
 
 ## Lessons Learned
