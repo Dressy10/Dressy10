@@ -2,8 +2,7 @@
 # Oh hi there, 👋
 
 
-
-My name is Samuel Dressman, and I am an Azure Deveoper who aspired to become a leading DevOps Engineer
+My name is Samuel Dressman, I am a Cloud and DevOps Engineer
 
 ## 🚀 About Me
 I'm a graduate of a business school with passion for technology, and I enjoy coding a lot.
