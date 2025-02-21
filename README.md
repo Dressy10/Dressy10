@@ -13,22 +13,21 @@ I'm a graduate of a business school with passion for technology, and I enjoy cod
 
 
 ## Other things you should know about me...
-👩‍💻 I'm currently working on building responsive websites
+👩‍💻 I assist developers in containerizing applications, monitoring, ensuring continues integration and continuous delivery.
 
-🧠 I'm currently learning DevOps and I hope to be a really good DevOps Engineer.
+🧠 I'm  still improving my DevOps skills by attaneding forums, community projects, personal projects, freelancing, etc.
 
-👯‍♀️ I'm looking to collaborate on working with DevOps specialists.
+👯‍♀️ I'm looking to collaborate on projects with mindblowing mindsets.
 
-📫 How to reach me... Kindly hit me up using any of my social media accounts.
+📫 I can be contacted via any of my social media accounts.
 
-⚡️ Fun fact... Coding is as fun as much as people find it difficult.
+⚡️ I find so much fun in tech.
 
 
-## 🛠 Skills
-Javascript, HTML, CSS, Shell and C Language, DevopS, Cloud Migration, Azure resource and Identity Management. I am still learning some other programs becasue leartning never stops for me.
+## 🛠 My Skills: Languages and Tools
+HTML, CSS, Javascript, Jenkins, Docker, Azure DevOps, Github Actions, Kubernetes, Application Monitoring, Grafana, JIRA, , Identity and Access Management.
 
 
 ## Lessons Learned
 
-1. No man is an island, and it is okay to seek for help, especially when having bugs in codes and in real life situations.
-2. Learn from your errors, they shape you.
+There is always an easier way to do it.
