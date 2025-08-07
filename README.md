@@ -16,18 +16,19 @@ I'm a graduate of a business school with passion for technology.
 
 ## Other things you should know about me...
 
-👩‍💻 Core Responsibilities: I specialize in enabling efficient software delivery by containerizing applications, implementing robust monitoring solutions, and building CI/CD pipelines. My goal is to streamline the development lifecycle and enhance operational stability.
+👩‍💻 **Core Responsibilities**: I specialize in enabling efficient software delivery by containerizing applications, implementing robust monitoring solutions, and building CI/CD pipelines. My goal is to streamline the development lifecycle and enhance operational stability.
 
-🧠 Continuous Learning: I am always expanding my skill set to stay current with industry trends. I actively participate in community projects, contribute to open-source initiatives, and take on personal projects to deepen my expertise in cloud infrastructure and automation.
+🧠 **Continuous Learning**: I am always expanding my skill set to stay current with industry trends. I actively participate in community projects, contribute to open-source initiatives, and take on personal projects to deepen my expertise in cloud infrastructure and automation.
 
-👯‍♀️ Collaboration: I'm seeking to connect with like-minded professionals on projects that push the boundaries of technology. Let's collaborate to build scalable and resilient systems.
+👯‍♀️ **Collaboration**: I'm seeking to connect with like-minded professionals on projects that push the boundaries of technology. Let's collaborate to build scalable and resilient systems.
 
-📫 Connect with me: You can reach out to me through my social media profiles to discuss potential collaborations or share insights.
+📫 **Connect with me**: You can reach out to me through my social media profiles to discuss potential collaborations or share insights.
 
-⚡️ Passion for Technology: I am passionate about leveraging technology to solve complex problems and find immense satisfaction in the creative and technical challenges of the DevOps field.
+⚡️ **Passion for Technology**: I am passionate about leveraging technology to solve complex problems and find immense satisfaction in the creative and technical challenges of the DevOps field.
 
 
 ## 🛠 My Skills: Languages and Tools
+
 HTML, CSS, Javascript, Jenkins, Docker, Azure DevOps, Github Actions, Kubernetes, Application Monitoring, Grafana, JIRA, , Identity and Access Management.
 
 
