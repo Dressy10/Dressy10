@@ -2,25 +2,29 @@
 # Oh hi there, 👋
 
 
-My name is Samuel Dressman, I am a Cloud and DevOps Engineer.
+My name is Samuel Dressman, and I am a Cloud and DevOps Engineer.
 
 ## 🚀 About Me
-I'm a graduate of a business school with passion for technology, and I enjoy coding a lot.
+
+I'm a graduate of a business school with passion for technology.
+
 ## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/samuel-dressman)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/afcdressy)
 
 
 ## Other things you should know about me...
-👩‍💻 I assist developers in containerizing applications, monitoring, ensuring continues integration and continuous delivery.
 
-🧠 I'm  still improving my DevOps skills by attaneding forums, community projects, personal projects, freelancing, etc.
+👩‍💻 Core Responsibilities: I specialize in enabling efficient software delivery by containerizing applications, implementing robust monitoring solutions, and building CI/CD pipelines. My goal is to streamline the development lifecycle and enhance operational stability.
 
-👯‍♀️ I'm looking to collaborate on projects with mindblowing mindsets.
+🧠 Continuous Learning: I am always expanding my skill set to stay current with industry trends. I actively participate in community projects, contribute to open-source initiatives, and take on personal projects to deepen my expertise in cloud infrastructure and automation.
 
-📫 I can be contacted via any of my social media accounts.
+👯‍♀️ Collaboration: I'm seeking to connect with like-minded professionals on projects that push the boundaries of technology. Let's collaborate to build scalable and resilient systems.
 
-⚡️ I find so much fun in tech.
+📫 Connect with me: You can reach out to me through my social media profiles to discuss potential collaborations or share insights.
+
+⚡️ Passion for Technology: I am passionate about leveraging technology to solve complex problems and find immense satisfaction in the creative and technical challenges of the DevOps field.
 
 
 ## 🛠 My Skills: Languages and Tools
