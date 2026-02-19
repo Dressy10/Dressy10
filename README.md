@@ -29,7 +29,7 @@ I'm a graduate of a business school with passion for technology.
 
 ## 🛠 My Skills: Languages and Tools
 
-HTML, CSS, Javascript, Jenkins, Docker, Azure DevOps, Github Actions, Kubernetes, Prometheus, Application Insights, Cloudwatch, Grafana, JIRA, , Identity and Access Management.
+HTML, CSS, Javascript, Jenkins, Docker, Azure DevOps, GCP, Artifact Registry, GKE, EKS, Github Actions, Kubernetes, Prometheus, Application Insights, Cloudwatch, Grafana, JIRA, , Identity and Access Management.
 
 
 ## Lessons Learned
